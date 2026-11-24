@@ -1,0 +1,43 @@
+local a=game
+local b=cloneref(a:GetService("ReplicatedFirst"))
+local c=b.LocalScript3
+local d=c
+local e=d
+local f=e
+local g=f
+local h=g
+local i=h
+local j=i
+local k=j
+local l=k
+local m=l
+local n=m
+local o=n
+local p=o
+local q=p
+local r=q
+local s=r
+local t=s
+local u=t
+local v=u
+local w=v
+local x=w
+local y=x
+local z=y
+local function aa(bb)
+ local cc=bb
+ local dd=cc
+ local ee=dd
+ local ff=ee
+ local gg=ff
+ local function hh(ii)
+  local jj=ii
+  local kk=jj
+  local function ll()
+   kk:Destroy()
+  end
+  ll()
+ end
+ hh(gg)
+end
+aa(z)
